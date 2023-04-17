@@ -1,3 +1,3 @@
-Controle de Condição Retirado do Livro:
+Controle de  Decisãp foi Retirado do  livro:
 ALGORITMOS: LÓGICA PARA DESENVOLVIMENTO DE PROGRAMAÇÃO DE COMPUTADORES; 29° Edição;
-PG 81,82
+PG 80 e 81
