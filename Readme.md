@@ -1,3 +1,3 @@
-Controle de  Decisãp foi Retirado do  livro:
+Controle de  Decisão foi Retirado do livro:
 ALGORITMOS: LÓGICA PARA DESENVOLVIMENTO DE PROGRAMAÇÃO DE COMPUTADORES; 29° Edição;
 PG 80 e 81
