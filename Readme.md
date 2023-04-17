@@ -1,0 +1,3 @@
+Controle de Condição Retirado do Livro:
+ALGORITMOS: LÓGICA PARA DESENVOLVIMENTO DE PROGRAMAÇÃO DE COMPUTADORES; 29° Edição;
+PG 81,82
